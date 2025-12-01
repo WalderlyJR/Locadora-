@@ -1,0 +1,1104 @@
+========================================
+   SISTEMA DE LOCACAO DE VEICULOS
+========================================
+
+----------------------------------------
+RNN: 0
+Placa: GIA5915
+Modelo: Civic
+Marca: Renault
+Ano: 2000
+Categoria: Hatch
+Quilometragem: 124098 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 1
+Placa: UUJ7641
+Modelo: Civic
+Marca: Volkswagen
+Ano: 2004
+Categoria: SUV
+Quilometragem: 184906 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 2
+Placa: VCI5034
+Modelo: Gol
+Marca: Chevrolet
+Ano: 2002
+Categoria: Sedan
+Quilometragem: 17890 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 3
+Placa: LCU6886
+Modelo: Civic
+Marca: Honda
+Ano: 2009
+Categoria: Luxo
+Quilometragem: 35251 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 4
+Placa: IVL9173
+Modelo: Uno
+Marca: Fiat
+Ano: 2007
+Categoria: Sedan
+Quilometragem: 113861 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 5
+Placa: FIT6687
+Modelo: Uno
+Marca: Ford
+Ano: 2014
+Categoria: Hatch
+Quilometragem: 174953 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 6
+Placa: GXA6405
+Modelo: Palio
+Marca: Fiat
+Ano: 2021
+Categoria: Sedan
+Quilometragem: 88888 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 7
+Placa: SWX9058
+Modelo: Uno
+Marca: Honda
+Ano: 2005
+Categoria: Hatch
+Quilometragem: 189892 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 8
+Placa: ZOO7368
+Modelo: Ka
+Marca: Honda
+Ano: 2013
+Categoria: Luxo
+Quilometragem: 92558 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 9
+Placa: DZA8858
+Modelo: Onix
+Marca: Volkswagen
+Ano: 2007
+Categoria: Luxo
+Quilometragem: 97389 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 10
+Placa: EVU4504
+Modelo: Sandero
+Marca: Hyundai
+Ano: 2015
+Categoria: Luxo
+Quilometragem: 56209 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 11
+Placa: ANX0949
+Modelo: Onix
+Marca: Chevrolet
+Ano: 2005
+Categoria: Sedan
+Quilometragem: 104170 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 12
+Placa: MLJ0406
+Modelo: Onix
+Marca: Hyundai
+Ano: 2017
+Categoria: Luxo
+Quilometragem: 64146 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 13
+Placa: FUR3802
+Modelo: Gol
+Marca: Renault
+Ano: 2007
+Categoria: Sedan
+Quilometragem: 61050 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 14
+Placa: RDY9543
+Modelo: Onix
+Marca: Toyota
+Ano: 2003
+Categoria: Sedan
+Quilometragem: 195984 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 15
+Placa: AAY3022
+Modelo: Uno
+Marca: Hyundai
+Ano: 2008
+Categoria: Hatch
+Quilometragem: 32528 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 16
+Placa: IKR6124
+Modelo: Uno
+Marca: Fiat
+Ano: 2007
+Categoria: Econômico
+Quilometragem: 110421 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 17
+Placa: WBT9664
+Modelo: Uno
+Marca: Hyundai
+Ano: 2013
+Categoria: Econômico
+Quilometragem: 42852 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 18
+Placa: JAS5561
+Modelo: Gol
+Marca: Chevrolet
+Ano: 2017
+Categoria: SUV
+Quilometragem: 111643 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 19
+Placa: JIZ5579
+Modelo: Gol
+Marca: Chevrolet
+Ano: 2018
+Categoria: Econômico
+Quilometragem: 136837 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 20
+Placa: JUJ9459
+Modelo: Palio
+Marca: Honda
+Ano: 2000
+Categoria: Econômico
+Quilometragem: 1156 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 21
+Placa: WUJ9340
+Modelo: Civic
+Marca: Honda
+Ano: 2011
+Categoria: Econômico
+Quilometragem: 161870 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 22
+Placa: NQE4186
+Modelo: Corolla
+Marca: Toyota
+Ano: 2002
+Categoria: Econômico
+Quilometragem: 133798 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 23
+Placa: PRE5673
+Modelo: Sandero
+Marca: Volkswagen
+Ano: 2023
+Categoria: Sedan
+Quilometragem: 4416 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 24
+Placa: QUM4935
+Modelo: Uno
+Marca: Hyundai
+Ano: 2013
+Categoria: Econômico
+Quilometragem: 23155 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 25
+Placa: QAI0120
+Modelo: Palio
+Marca: Hyundai
+Ano: 2016
+Categoria: Hatch
+Quilometragem: 184943 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 26
+Placa: ORG5924
+Modelo: Ka
+Marca: Hyundai
+Ano: 2009
+Categoria: Econômico
+Quilometragem: 81235 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 27
+Placa: GDW9907
+Modelo: Sandero
+Marca: Chevrolet
+Ano: 2023
+Categoria: Sedan
+Quilometragem: 164618 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 28
+Placa: GZA3830
+Modelo: Palio
+Marca: Renault
+Ano: 2023
+Categoria: Luxo
+Quilometragem: 83534 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 29
+Placa: VMV8316
+Modelo: Fiesta
+Marca: Honda
+Ano: 2005
+Categoria: Hatch
+Quilometragem: 134379 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 30
+Placa: PMN5157
+Modelo: Palio
+Marca: Chevrolet
+Ano: 2011
+Categoria: Econômico
+Quilometragem: 164494 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 31
+Placa: JDV1360
+Modelo: Civic
+Marca: Toyota
+Ano: 2010
+Categoria: Hatch
+Quilometragem: 14786 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 32
+Placa: XCQ8509
+Modelo: Corolla
+Marca: Chevrolet
+Ano: 2005
+Categoria: Sedan
+Quilometragem: 147448 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 33
+Placa: AEQ9535
+Modelo: Uno
+Marca: Toyota
+Ano: 2012
+Categoria: Luxo
+Quilometragem: 65943 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 34
+Placa: FVA6862
+Modelo: Onix
+Marca: Honda
+Ano: 2001
+Categoria: Hatch
+Quilometragem: 150374 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 35
+Placa: LUH0063
+Modelo: Civic
+Marca: Ford
+Ano: 2017
+Categoria: Econômico
+Quilometragem: 121529 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 36
+Placa: MOE7333
+Modelo: Sandero
+Marca: Volkswagen
+Ano: 2018
+Categoria: Sedan
+Quilometragem: 148272 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 37
+Placa: ZHP3076
+Modelo: Sandero
+Marca: Fiat
+Ano: 2006
+Categoria: Luxo
+Quilometragem: 135198 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 38
+Placa: EEU1131
+Modelo: Fiesta
+Marca: Toyota
+Ano: 2020
+Categoria: SUV
+Quilometragem: 93796 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 39
+Placa: KZX2027
+Modelo: Onix
+Marca: Renault
+Ano: 2008
+Categoria: Hatch
+Quilometragem: 163743 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 40
+Placa: PRH5105
+Modelo: Civic
+Marca: Ford
+Ano: 2018
+Categoria: Econômico
+Quilometragem: 129014 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 41
+Placa: COS3487
+Modelo: Fiesta
+Marca: Honda
+Ano: 2008
+Categoria: Econômico
+Quilometragem: 153300 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 42
+Placa: FJR0926
+Modelo: Ka
+Marca: Toyota
+Ano: 2019
+Categoria: Hatch
+Quilometragem: 5237 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 43
+Placa: KVD9954
+Modelo: Palio
+Marca: Fiat
+Ano: 2016
+Categoria: Luxo
+Quilometragem: 197077 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 44
+Placa: FTE7901
+Modelo: Palio
+Marca: Honda
+Ano: 2009
+Categoria: Econômico
+Quilometragem: 166817 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 45
+Placa: KOG5327
+Modelo: Sandero
+Marca: Renault
+Ano: 2013
+Categoria: Econômico
+Quilometragem: 182079 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 46
+Placa: AIW3586
+Modelo: Sandero
+Marca: Fiat
+Ano: 2012
+Categoria: Luxo
+Quilometragem: 82165 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 47
+Placa: DQX6792
+Modelo: Corolla
+Marca: Toyota
+Ano: 2009
+Categoria: Luxo
+Quilometragem: 106179 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 48
+Placa: TFT5742
+Modelo: Uno
+Marca: Honda
+Ano: 2022
+Categoria: Sedan
+Quilometragem: 165169 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 49
+Placa: VJR0999
+Modelo: HB20
+Marca: Chevrolet
+Ano: 2001
+Categoria: Luxo
+Quilometragem: 133773 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 50
+Placa: FYJ4842
+Modelo: Fiesta
+Marca: Ford
+Ano: 2009
+Categoria: Hatch
+Quilometragem: 81378 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 51
+Placa: GAV7580
+Modelo: HB20
+Marca: Honda
+Ano: 2011
+Categoria: Luxo
+Quilometragem: 75378 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 52
+Placa: EZQ0001
+Modelo: Corolla
+Marca: Renault
+Ano: 2004
+Categoria: Luxo
+Quilometragem: 184571 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 53
+Placa: SEL8231
+Modelo: Gol
+Marca: Renault
+Ano: 2022
+Categoria: Hatch
+Quilometragem: 65356 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 54
+Placa: RVS9478
+Modelo: Onix
+Marca: Renault
+Ano: 2006
+Categoria: Econômico
+Quilometragem: 145291 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 55
+Placa: ZDP9218
+Modelo: Onix
+Marca: Chevrolet
+Ano: 2000
+Categoria: Econômico
+Quilometragem: 100690 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 56
+Placa: CPU9812
+Modelo: Palio
+Marca: Honda
+Ano: 2007
+Categoria: Hatch
+Quilometragem: 153868 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 57
+Placa: AFM8725
+Modelo: Civic
+Marca: Toyota
+Ano: 2000
+Categoria: Econômico
+Quilometragem: 19309 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 58
+Placa: DFU4068
+Modelo: Civic
+Marca: Fiat
+Ano: 2023
+Categoria: Sedan
+Quilometragem: 427 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 59
+Placa: NLL4551
+Modelo: Uno
+Marca: Chevrolet
+Ano: 2012
+Categoria: Hatch
+Quilometragem: 125178 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 60
+Placa: EJK5915
+Modelo: Sandero
+Marca: Renault
+Ano: 2010
+Categoria: SUV
+Quilometragem: 90638 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 61
+Placa: FVM6522
+Modelo: HB20
+Marca: Volkswagen
+Ano: 2009
+Categoria: Sedan
+Quilometragem: 142471 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 62
+Placa: KAC3520
+Modelo: Onix
+Marca: Renault
+Ano: 2012
+Categoria: Hatch
+Quilometragem: 160519 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 63
+Placa: EFY6746
+Modelo: Palio
+Marca: Volkswagen
+Ano: 2016
+Categoria: Hatch
+Quilometragem: 63903 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 64
+Placa: NAV8363
+Modelo: Palio
+Marca: Renault
+Ano: 2018
+Categoria: Econômico
+Quilometragem: 51144 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 65
+Placa: WWB5798
+Modelo: Ka
+Marca: Honda
+Ano: 2000
+Categoria: Econômico
+Quilometragem: 99536 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 66
+Placa: AGS1780
+Modelo: Civic
+Marca: Fiat
+Ano: 2019
+Categoria: Sedan
+Quilometragem: 88856 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 67
+Placa: BVK4575
+Modelo: Corolla
+Marca: Chevrolet
+Ano: 2006
+Categoria: SUV
+Quilometragem: 125274 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 68
+Placa: XZQ7647
+Modelo: Fiesta
+Marca: Ford
+Ano: 2020
+Categoria: Hatch
+Quilometragem: 28898 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 69
+Placa: VYD4896
+Modelo: Ka
+Marca: Toyota
+Ano: 2023
+Categoria: Hatch
+Quilometragem: 33908 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 70
+Placa: WXC6486
+Modelo: Ka
+Marca: Hyundai
+Ano: 2019
+Categoria: Econômico
+Quilometragem: 127210 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 71
+Placa: AOO4445
+Modelo: Civic
+Marca: Toyota
+Ano: 2023
+Categoria: SUV
+Quilometragem: 116804 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 72
+Placa: SCC2686
+Modelo: Sandero
+Marca: Fiat
+Ano: 2005
+Categoria: Luxo
+Quilometragem: 110179 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 73
+Placa: KZB8152
+Modelo: Civic
+Marca: Chevrolet
+Ano: 2012
+Categoria: Econômico
+Quilometragem: 191989 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 74
+Placa: JBB5603
+Modelo: Fiesta
+Marca: Hyundai
+Ano: 2016
+Categoria: SUV
+Quilometragem: 72254 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 75
+Placa: TNH4713
+Modelo: Ka
+Marca: Ford
+Ano: 2014
+Categoria: Sedan
+Quilometragem: 88622 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 76
+Placa: TYB1457
+Modelo: Onix
+Marca: Chevrolet
+Ano: 2007
+Categoria: Hatch
+Quilometragem: 34237 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 77
+Placa: CWL0989
+Modelo: Sandero
+Marca: Volkswagen
+Ano: 2002
+Categoria: Econômico
+Quilometragem: 47429 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 78
+Placa: EIX7880
+Modelo: Onix
+Marca: Fiat
+Ano: 2006
+Categoria: Sedan
+Quilometragem: 72225 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 79
+Placa: HBD3718
+Modelo: Palio
+Marca: Chevrolet
+Ano: 2018
+Categoria: Hatch
+Quilometragem: 162024 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 80
+Placa: CAM4244
+Modelo: Gol
+Marca: Toyota
+Ano: 2000
+Categoria: Sedan
+Quilometragem: 128214 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 81
+Placa: FQD5757
+Modelo: Onix
+Marca: Ford
+Ano: 2009
+Categoria: Luxo
+Quilometragem: 16978 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 82
+Placa: LBX6118
+Modelo: Palio
+Marca: Toyota
+Ano: 2006
+Categoria: Sedan
+Quilometragem: 57425 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 83
+Placa: ULA9252
+Modelo: HB20
+Marca: Honda
+Ano: 2009
+Categoria: Econômico
+Quilometragem: 136783 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 84
+Placa: VZF4000
+Modelo: Fiesta
+Marca: Fiat
+Ano: 2003
+Categoria: Sedan
+Quilometragem: 1022 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 85
+Placa: OCJ3960
+Modelo: Ka
+Marca: Fiat
+Ano: 2000
+Categoria: Luxo
+Quilometragem: 40150 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 86
+Placa: WJB0019
+Modelo: Civic
+Marca: Hyundai
+Ano: 2001
+Categoria: Luxo
+Quilometragem: 35134 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 87
+Placa: OBM5601
+Modelo: Onix
+Marca: Chevrolet
+Ano: 2013
+Categoria: Econômico
+Quilometragem: 75003 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 88
+Placa: FKK6205
+Modelo: Uno
+Marca: Chevrolet
+Ano: 2010
+Categoria: Econômico
+Quilometragem: 7635 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 89
+Placa: GSZ8656
+Modelo: Ka
+Marca: Renault
+Ano: 2000
+Categoria: Sedan
+Quilometragem: 146173 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 90
+Placa: GYM6570
+Modelo: Palio
+Marca: Toyota
+Ano: 2001
+Categoria: Econômico
+Quilometragem: 99603 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 91
+Placa: PNT7149
+Modelo: Fiesta
+Marca: Volkswagen
+Ano: 2023
+Categoria: Sedan
+Quilometragem: 151263 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 92
+Placa: MEE2624
+Modelo: Civic
+Marca: Hyundai
+Ano: 2011
+Categoria: Luxo
+Quilometragem: 192716 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 93
+Placa: NOK3304
+Modelo: Civic
+Marca: Toyota
+Ano: 2008
+Categoria: SUV
+Quilometragem: 48320 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 94
+Placa: VPC0700
+Modelo: Palio
+Marca: Chevrolet
+Ano: 2015
+Categoria: SUV
+Quilometragem: 179220 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 95
+Placa: ERQ1947
+Modelo: Ka
+Marca: Ford
+Ano: 2014
+Categoria: SUV
+Quilometragem: 194693 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 96
+Placa: MSA4552
+Modelo: Gol
+Marca: Toyota
+Ano: 2012
+Categoria: Hatch
+Quilometragem: 125170 km
+Status: Disponível
+----------------------------------------
+
+----------------------------------------
+RNN: 97
+Placa: DPG0869
+Modelo: Uno
+Marca: Volkswagen
+Ano: 2014
+Categoria: Hatch
+Quilometragem: 193999 km
+Status: Alugado
+----------------------------------------
+
+----------------------------------------
+RNN: 98
+Placa: JRK7059
+Modelo: Uno
+Marca: Fiat
+Ano: 2018
+Categoria: Hatch
+Quilometragem: 130702 km
+Status: Em manutenção
+----------------------------------------
+
+----------------------------------------
+RNN: 99
+Placa: JZG0971
+Modelo: Civic
+Marca: Renault
+Ano: 2001
+Categoria: Econômico
+Quilometragem: 107965 km
+Status: Disponível
+----------------------------------------
+

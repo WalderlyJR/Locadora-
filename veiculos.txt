@@ -1,0 +1,15 @@
+========================================
+   SISTEMA DE LOCACAO DE VEICULOS
+========================================
+
+----------------------------------------
+RNN: 0
+Placa: ZOO7368
+Modelo: 
+Marca: Ka
+Ano: 2013
+Categoria: Luxo
+Quilometragem: 92558 km
+Status: Alugado
+----------------------------------------
+

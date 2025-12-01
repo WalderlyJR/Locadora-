@@ -1,0 +1,95 @@
+# Projeto ED2 — Sistema de Locadora de Veículos (Árvore B)
+
+Este projeto implementa um sistema de gerenciamento de veículos utilizando árvore B como estrutura de índice, com suporte a cache (fila virtual), persistência em arquivo e interface interativa em terminal.
+
+---
+
+## Estrutura de Arquivos:
+
+```
+GivaldoJoseFeitozaNeto/
+│
+├── locadora.c
+│   → Programa principal do sistema contendo:
+│     • Implementação completa da árvore B (M=5, P=3)
+│     • Sistema de fila virtual para cache de páginas
+│     • Operações de CRUD (busca, inserção, remoção)
+│     • Interface de menu interativo
+│     • Persistência e gerenciamento de arquivos
+│
+├── gerador_veiculos.c
+│   → Gerador de dados de teste:
+│     • Cria 100 veículos com dados aleatórios
+│     • Gera placas únicas no formato brasileiro
+│     • Salva os registros em veiculos.dat
+│
+└── output/
+    → Diretório para arquivos gerados:
+      • veiculos.dat → dados binários dos veículos
+      • btree_5.idx → índice da árvore B
+```
+
+---
+
+## Estruturas Principais
+
+O sistema utiliza as seguintes estruturas definidas em `locadora.c`:
+
+**Veiculo** → Registro de dados do veículo.
+- placa[8], modelo[20], marca[20], ano, categoria[15], quilometragem, status[16]
+
+**PaginaLocadora** → Nó da árvore B.
+- chaves[M-1][8], rrn_dados[M-1], rrn_filhos[M], num_chaves, rrn_pai, folha
+
+**FilaVirtual** → Fila de páginas (cache).
+- inicio, fim, tamanho (capacidade máxima P=3)
+
+**NoFila** → Nó da fila virtual.
+- pagina, rrn, modificada, prox
+
+---
+
+## Execução
+
+Para compilar e executar o sistema:
+
+1. **Primeiro, gere os dados de teste:**
+   ```bash
+   gcc gerador_veiculos.c -o gerador
+   ./gerador
+   ```
+   Isso criará o arquivo `veiculos.dat` com 100 veículos.
+
+2. **Em seguida, execute o sistema principal:**
+   ```bash
+   gcc locadora.c -o locadora
+   ./locadora
+   ```
+
+O programa exibirá o menu principal, permitindo:
+
+- Buscar veículo por placa
+- Inserir novo veículo
+- Remover veículo
+- Sair (salvando automaticamente as modificações)
+
+---
+
+## Observações:
+
+- O sistema utiliza árvore B de ordem M=5 (mínimo 2 chaves, máximo 4 chaves por nó)
+- A fila virtual mantém P=3 páginas em memória (cache LRU)
+- O programa cria automaticamente `btree_5.idx` na primeira execução
+- Execuções subsequentes carregam o índice existente
+- Todas as páginas modificadas são salvas automaticamente ao encerrar
+- Os arquivos principais em disco são:
+  - **btree_5.idx** → índice da árvore B
+  - **veiculos.dat** → dados binários dos veículos
+
+---
+
+**Autor**: Givaldo José Feitoza Neto  
+**Disciplina**: Estrutura de Dados II  
+**Professor**: Lucas Correia Ribas
+
+
